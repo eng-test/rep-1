@@ -1,3 +1,12 @@
 #login page
-username=input("enter user name: ")
-password=input("enter password: ")
+usname="sruthy"
+passwd="fine"
+i=1
+while i<=3:
+       username=input("enter user name: ")
+       if username==usname:
+              print("ok")
+
+       i=i+1       
+       password=input("enter password: ")
+       
